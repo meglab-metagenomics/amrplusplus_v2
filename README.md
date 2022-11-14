@@ -4,7 +4,10 @@ Overview
 [![Nextflow](https://img.shields.io/badge/Nextflow-%E2%89%A50.25.1-brightgreen.svg)](https://www.nextflow.io/)
 
 
-## AMR++ v2 updates
+## [AMR++ v3 now available!](https://github.com/Microbial-Ecology-Group/AMRplusplus)
+We have migrated github repositories to a [new location](https://github.com/Microbial-Ecology-Group/AMRplusplus) (to make it a group repository), and this repository will be deprecated. We apologize for any inconvenience and hope you find v3 useful for your research needs. Of note, version 3 includes:
+* SNP confirmation using a custom database and [SNP verification software](https://github.com/Isabella136/AmrPlusPlus_SNP)
+* improved modularity to optimize a personalized workflow
 
 
 ### 2022-08-22 : AMR++ update coming soon
